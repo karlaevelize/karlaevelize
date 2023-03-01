@@ -1,6 +1,6 @@
 ## Hi there, I'm Karla 👋
 
-Something about me goes here
+- Something about me goes here
  
 #### Get in touch: 
 
