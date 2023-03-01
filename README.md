@@ -11,6 +11,6 @@
   </a>
 </p>
 
-<!-- <img src="https://media4.giphy.com/media/hujejOtss7zG0/giphy.gif?cid=ecf05e475expktnwn22r0lblnnh8z3n92uoab5exz1joj0qx&rid=giphy.gif&ct=g" /> -->
+<img src="https://media4.giphy.com/media/hujejOtss7zG0/giphy.gif?cid=ecf05e475expktnwn22r0lblnnh8z3n92uoab5exz1joj0qx&rid=giphy.gif&ct=g" />
 
-<img src="https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e478vcqflevvv1kpaylxttm8z5kfl2a2u3147qcw6tm&rid=giphy.gif&ct=g"/>
+<!-- <img src="https://media2.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e478vcqflevvv1kpaylxttm8z5kfl2a2u3147qcw6tm&rid=giphy.gif&ct=g"/> -->
