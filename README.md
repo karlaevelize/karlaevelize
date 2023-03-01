@@ -1,7 +1,7 @@
 ## Hi there, I'm Karla 👋
 
 - I am a full stack developer teacher, I have worked with 300+ students and helped them become developers
-- I moved to the Netherlands in 20xx, originally I come from Brazil.
+- I moved to the Netherlands in 2019, originally I come from Brazil.
 - My main languages of choice are Javascript and Python
 - I worked with React, Express, Redux, FastAPI & Django 
  
