@@ -1,18 +1,14 @@
-### Hi there 👋
+## Hi there, I'm Karla 👋
+ 
+#### Get in touch: 
 
-<!--
-**karlaevelize/karlaevelize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://www.linkedin.com/in/karla-evelize/" target="_blank">
+    <img align="left" alt="karla's linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+    <a href="mailto:k.evelize@gmail.com">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=karlaevelize&layout=compact">
+<img src="https://media4.giphy.com/media/hujejOtss7zG0/giphy.gif?cid=ecf05e475expktnwn22r0lblnnh8z3n92uoab5exz1joj0qx&rid=giphy.gif&ct=g" />
